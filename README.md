@@ -4,7 +4,7 @@ A responsive HTML/CSS template for an e-commerce beauty store.
 
 ## ✨ Live Demo
 
-[Visit Website](https://<your-github-username>.github.io/<repository-name>/)
+[Visit Website](https://beauty-store-html.vercel.app/)
 
 > Replace `<your-github-username>` and `<repository-name>` with your actual GitHub username and repo name.
 
